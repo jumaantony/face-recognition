@@ -10,7 +10,7 @@ const Logo = () => {
     <div className='ma4 mt0'>
         <Tilt className='tilt br2 shadow-2' style={{ height: 80, width:80}}>
             <div className='titl-inner'>
-                <img src={brain} alt='logo'  style={{paddingtop: 5px;}}/>
+                <img src={brain} alt='logo'  style={{paddingTop: '5px'}}/>
             </div>
         </Tilt>
     </div>

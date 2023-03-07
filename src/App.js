@@ -10,6 +10,7 @@ import FaceRecognition from './components/FaceRecognition/FaceRecognition';
 
 import ParticlesBg from 'particles-bg';
 
+
 class App extends Component {
   constructor(){
     super()
